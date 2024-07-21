@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298004579210",
+    "project_id": "chatstemm",
+    "storage_bucket": "chatstemm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298004579210:android:9dca5351a6887590e1be73",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fV_wcQ9Avu0EhThabNH8Vlfl_C93DOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
